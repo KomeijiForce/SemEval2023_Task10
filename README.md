@@ -1,4 +1,4 @@
-# SemEval2023_Task10
+# Chride Solution at SemEval2023_Task10
 
 Pytorch implementation for the **Chride at SemEval-2023 Task 10: Fine-tuned DebertaV3 on Detection of Online Sexism with Hierarchical Loss** at SemEval2023 Task 10.
 
